@@ -1,0 +1,5 @@
+/home/sadfrog/GitRepos/Parallel-Algorithms/parallel_labs/lab_3/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs
+/home/sadfrog/GitRepos/Parallel-Algorithms/parallel_labs/lab_3/bin/Debug/lab_3.pdb
+/home/sadfrog/GitRepos/Parallel-Algorithms/parallel_labs/lab_3/bin/Debug/lab_3.exe
+/home/sadfrog/GitRepos/Parallel-Algorithms/parallel_labs/lab_3/obj/Debug/lab_3.exe
+/home/sadfrog/GitRepos/Parallel-Algorithms/parallel_labs/lab_3/obj/Debug/lab_3.pdb
